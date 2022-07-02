@@ -5,7 +5,8 @@
   "interests": [
     "spatial data",
     "iot",
-    "automation"
+    "automation",
+    "primary industries"
   ] 
 }
 ```
