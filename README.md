@@ -1,7 +1,7 @@
 ```
 {
   "name": "campbellfleury",
-  "location": "wellington, nz",
+  "location": "upper hutt, nz",
   "interests": [
     "spatial data",
     "iot",
